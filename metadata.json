@@ -1,0 +1,6 @@
+{
+  "name": "Absensi & Penilaian Siswa MTs NW Asmaul Husna",
+  "description": "Aplikasi absensi digital dan penilaian siswa real-time dengan sistem login guru untuk MTs NW Asmaul Husna Aik Bukak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
